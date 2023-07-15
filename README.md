@@ -1,4 +1,3 @@
-# Data Set  http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 # Drowsiness Detection using Eye Aspect Ratio (EAR)
 
 This code implements a drowsiness detection system using the Eye Aspect Ratio (EAR) metric. It uses computer vision libraries such as OpenCV, dlib, and SciPy.
